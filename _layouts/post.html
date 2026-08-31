@@ -37,22 +37,22 @@ layout: default
 
 </article>
 
-<nav class="pagination" aria-label="Post navigation">
+<nav class="post-pagination" aria-label="Post navigation">
   {%- if page.previous -%}
-    <a class="pagination-item previous" href="{{ page.previous.url | relative_url }}">&larr; Previous<br><span class="pagination-title">{{ page.previous.title | escape }}</span></a>
+    <a class="post-pagination-item previous" href="{{ page.previous.url | relative_url }}">&larr; Previous<br><span class="post-pagination-title">{{ page.previous.title | escape }}</span></a>
   {%- else -%}
-    <span class="pagination-item previous disabled"></span>
+    <span class="post-pagination-item previous disabled"></span>
   {%- endif -%}
   {%- if page.next -%}
-    <a class="pagination-item next" href="{{ page.next.url | relative_url }}">Next &rarr;<br><span class="pagination-title">{{ page.next.title | escape }}</span></a>
+    <a class="post-pagination-item next" href="{{ page.next.url | relative_url }}">Next &rarr;<br><span class="post-pagination-title">{{ page.next.title | escape }}</span></a>
   {%- else -%}
-    <span class="pagination-item next disabled"></span>
+    <span class="post-pagination-item next disabled"></span>
   {%- endif -%}
 </nav>
 
 <style>
-  .pagination { display: flex; justify-content: space-between; gap: 1em; margin: 2em 0; padding-top: 1em; border-top: 1px solid #e8e8e8; }
-  .pagination-item { max-width: 48%; line-height: 1.4; }
-  .pagination-item.next { text-align: right; margin-left: auto; }
-  .pagination-title { font-size: 0.9em; color: #828282; }
+  .post-pagination { display: flex; justify-content: space-between; gap: 1em; margin: 2em 0; padding-top: 1em; border-top: 1px solid #e8e8e8; }
+  .post-pagination-item { max-width: 48%; line-height: 1.4; }
+  .post-pagination-item.next { text-align: right; margin-left: auto; }
+  .post-pagination-title { font-size: 0.9em; color: #828282; }
 </style>
