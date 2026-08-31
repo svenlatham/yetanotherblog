@@ -9,7 +9,7 @@ categories: ["Uncategorized"]
 
 Been sat getting on with some work with [the Budget](http://news.bbc.co.uk/1/hi/in_depth/business/2007/budget_2007/default.stm) on in the background.  
   
-Is it me or are the numerous silly little on-screen graphics getting out of hand? It's like they discovered a few years ago they could have David Dimbleby walk around some virtual swingometer on voting day, and every year since the graphics have just become more & more obscure and (dare I use that clichÃ©ed phrase) dumbed-down.  
+Is it me or are the numerous silly little on-screen graphics getting out of hand? It's like they discovered a few years ago they could have David Dimbleby walk around some virtual swingometer on voting day, and every year since the graphics have just become more & more obscure and (dare I use that clichéed phrase) dumbed-down.  
   
 Today's presentation included a strange Lego model of Gordon Brown walking around on the desk doing nothing in particular, followed by a bunch of 3D Lego models of ambulances and other symbolic gestures to show where the money was going.  
   

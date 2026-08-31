@@ -8,9 +8,9 @@ categories: ["Uncategorized"]
 tags: ["development", "visual studio", "c#", "codebehind"]
 ---
 
-I'm going to need to remember this, as it runs slightly counter-intuitive to what I was expecting (although makes sense).
-Code compiled in App\_Code is available globally, so any other piece of code can reference it.
-Code compiled in code-behind (i.e. the .cs files 'behind' ASPX pages) is only available to its corresponding ASPX pageÂ *unless* you explicitly reference it.
+I'm going to need to remember this, as it runs slightly counter-intuitive to what I was expecting (although makes sense).  
+Code compiled in App\_Code is available globally, so any other piece of code can reference it.  
+Code compiled in code-behind (i.e. the .cs files 'behind' ASPX pages) is only available to its corresponding ASPX page *unless* you explicitly reference it.  
 This can be done by adding the following to the ASPX page:
 
 ```

@@ -11,10 +11,10 @@ categories: ["google"]
 
   
 
-For Â£1.65bn in stock
+For £1.65bn in stock
 
-*"When
-the acquisition is complete, YouTube will retain its distinct brand identity, strengthening and
-complementing Googleâ€™s own fast-growing video business."*
+*"When  
+the acquisition is complete, YouTube will retain its distinct brand identity, strengthening and  
+complementing Google’s own fast-growing video business."*
 
 technorati tags:[google](http://technorati.com/tag/google), [youtube](http://technorati.com/tag/youtube)

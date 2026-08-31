@@ -8,5 +8,5 @@ categories: ["Uncategorized"]
 tags: ["facebook", "Blogwise"]
 ---
 
-A bit of a spooky advert from Facebook. Does it really know me **that** well that it serves up ads featuring names of websites I used to run?
+A bit of a spooky advert from Facebook. Does it really know me **that** well that it serves up ads featuring names of websites I used to run?  
 [![](https://www.yetanotherblog.com/wp-content/uploads/2008/07/blogwise.png "blogwise")](https://www.yetanotherblog.com/wp-content/uploads/2008/07/blogwise.png)

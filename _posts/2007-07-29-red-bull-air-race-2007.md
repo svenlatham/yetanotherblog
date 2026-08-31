@@ -7,5 +7,5 @@ author: "sven"
 categories: ["Uncategorized"]
 ---
 
-Here at the Red Bull Air Race and just discovered the camera can do instant panoramas, so here goes :)
+Here at the Red Bull Air Race and just discovered the camera can do instant panoramas, so here goes :)  
 ![](https://www.yetanotherblog.com/wp-content/uploads/2007/07/redbull.jpg)

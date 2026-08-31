@@ -7,5 +7,5 @@ author: "sven"
 categories: ["On The Web", "google"]
 ---
 
-Thought: By using DMOZ-based descriptions in their search results, shouldn't Google be posting the standard DMOZ attribution notice at the bottom of their pages?
+Thought: By using DMOZ-based descriptions in their search results, shouldn't Google be posting the standard DMOZ attribution notice at the bottom of their pages?  
 ![blogwise.gif](https://www.yetanotherblog.com/wp-content/uploads/2006/02/blogwise.gif)

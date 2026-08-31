@@ -10,8 +10,8 @@ Getting there with ESP development on a Chromebook...
 
 
 
-1. Make sure you have [VS Code already installed](https://www.yetanotherblog.com/2024/12/21/installing-vs-code-on-chromebook/).
-2. In a terminal, `sudo apt install python-is-python3 python3-venv`
+1. Make sure you have [VS Code already installed](https://www.yetanotherblog.com/2024/12/21/installing-vs-code-on-chromebook/).  
+2. In a terminal, `sudo apt install python-is-python3 python3-venv`  
 3. Open up VS Code, hit *Shift + Ctrl + X* and install *PlatformIO IDE*.
 
 

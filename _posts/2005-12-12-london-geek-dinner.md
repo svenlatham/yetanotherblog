@@ -13,14 +13,14 @@ The event was interesting, enjoyable and useful. It was held at the Texas Embass
 
 As a networking event it was useful to get around and meet people. This is one of my first such events, and I'm still to overcome the whole *approach strangers* thing. Despite that I managed to meet some pretty interesting people, including:
 
-* Ewan Spence from [AllAboutSymbian](http://www.allaboutsymbian.com/)
-* Andrew Denny from canal blog [Granny Buttons](http://www.grannybuttons.com/) and PR company [The Publicity Works](http://www.publicityworks.biz/)
-* Emma Stewart (briefly, just before I had to rush off)
-* Matthew Westcott, iPod hacker extraordinaire
-* Jen Dixon from [Regular Jen](http://www.regularjen.com/)
-* Neil Dixon, [NeilDixon.com](http://www.neildixon.com/) and [Britcaster.com](http://www.britcaster.com/)
-* [Ian Yorston](http://ian%20yorston/) from Radley College
-* [Neil Turner](http://www.neilturner.me.uk/) (more of a quick hello though)
+* Ewan Spence from [AllAboutSymbian](http://www.allaboutsymbian.com/)  
+* Andrew Denny from canal blog [Granny Buttons](http://www.grannybuttons.com/) and PR company [The Publicity Works](http://www.publicityworks.biz/)  
+* Emma Stewart (briefly, just before I had to rush off)  
+* Matthew Westcott, iPod hacker extraordinaire  
+* Jen Dixon from [Regular Jen](http://www.regularjen.com/)  
+* Neil Dixon, [NeilDixon.com](http://www.neildixon.com/) and [Britcaster.com](http://www.britcaster.com/)  
+* [Ian Yorston](http://ian%20yorston/) from Radley College  
+* [Neil Turner](http://www.neilturner.me.uk/) (more of a quick hello though)  
 * [Robert Scoble](http://scobleizer.wordpress.com/)
 
 Definitely worthwhile - it looks like there'll be a smaller one for Sussex people (I'm Sussex-ish) in Uckfield in January - I'm already on the list there and it should be another useful and interesting time.

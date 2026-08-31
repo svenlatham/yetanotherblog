@@ -7,7 +7,7 @@ author: "sven"
 categories: ["Uncategorized"]
 ---
 
-See <http://www.xml.com/pub/a/2004/03/17/syncato.html> and
+See <http://www.xml.com/pub/a/2004/03/17/syncato.html> and  
 <http://www.syncato.org/WK/blog/Syncato.page>
   
   

@@ -19,5 +19,5 @@ To protect yourself against these attacks, make sure that any web forms you use 
 
 Elsewhere on the Internet, this recent 'wave' has been discussed, and a quick Google finds a few articles of interest:
 
-* [Article about email injection](http://securephp.damonkohler.com/index.php/Email_Injection)
+* [Article about email injection](http://securephp.damonkohler.com/index.php/Email_Injection)  
 * [Blog with plenty of comments from affected webmasters](http://www.anders.com/cms/75/Crack.Attempt/Spam.Relay)
