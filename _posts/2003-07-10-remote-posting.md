@@ -7,5 +7,5 @@ author: "sven"
 categories: ["Uncategorized"]
 ---
 
-As I write this, I am in a student accommodation in Birmingham University, on a 9,600 bps connection overÂ a mobile phone :-) Why? Because I can.
+As I write this, I am in a student accommodation in Birmingham University, on a 9,600 bps connection over a mobile phone :-) Why? Because I can.  
 More tomorrow!

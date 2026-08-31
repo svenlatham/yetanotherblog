@@ -9,10 +9,10 @@ categories: ["Uncategorized"]
 
 A few links I must check out at some point:  
   
-<http://llt.msu.edu/vol8num1/emerging/default.html>
+<http://llt.msu.edu/vol8num1/emerging/default.html>  
 ...talks about Dom and DAV (sounds like a crusty 80s radio DJ pair)  
   
-<http://www.criticalmethods.org/collab/v.mv?d=1_34>
+<http://www.criticalmethods.org/collab/v.mv?d=1_34>  
 ...quite a bit on Wikis  
   
 - Sven

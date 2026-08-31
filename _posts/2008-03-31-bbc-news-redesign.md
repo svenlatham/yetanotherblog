@@ -16,4 +16,4 @@ I'm sure CSS purists will also dislike that this redesign still uses tables for 
 
 It seems this has just happened - none of the subsequent pages (Tech, UK, World, etc) carry the updated layout, but I'm sure it's only a matter of time. The BBC tend to keep old designs around for archived material, so looking back to [articles from the 90s](http://news.bbc.co.uk/1/hi/business/74405.stm) you can see the page as it was (albeit with a few SSI errors...)
 
-**Update:**Â  Steve Herrmann from the BBC [describes the changes](http://www.bbc.co.uk/blogs/theeditors/2008/03/refreshing_changes.html)
+**Update:**  Steve Herrmann from the BBC [describes the changes](http://www.bbc.co.uk/blogs/theeditors/2008/03/refreshing_changes.html)

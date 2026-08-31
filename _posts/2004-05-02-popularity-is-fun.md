@@ -7,10 +7,10 @@ author: "sven"
 categories: ["Uncategorized"]
 ---
 
-I thought Yahoo! web search would be rubbish after they stopped using
+I thought Yahoo! web search would be rubbish after they stopped using  
 Google as their supplier, but my opinion of them has now changed...  
   
-Searching for 'sven' on www.yahoo.com puts Blogwise fifth and Yet Another
+Searching for 'sven' on www.yahoo.com puts Blogwise fifth and Yet Another  
 Blog 9th -- \*in the world\*. I am still about 150th on Google.  
   
 :)

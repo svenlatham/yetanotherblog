@@ -8,8 +8,8 @@ categories: ["Uncategorized"]
 tags: ["web", "post", "html", "http", "verbs", "get"]
 ---
 
-Here's one for the web perfectionists out there. The usual line with HTTP and web browsing is that requests are achieved through the GET verb, and data modifications are through POST.
-All well and good, but how do you handle text links that trigger a data modification? For instance, a page might have a list of items in a table, with "Edit - Delete" as associated actions. Edit is simple, it might go to edit?id=..., but Delete is more tricky. Assuming that no interstital "Are you sure" page is necessary, how can you trigger a POST from that Delete link?
+Here's one for the web perfectionists out there. The usual line with HTTP and web browsing is that requests are achieved through the GET verb, and data modifications are through POST.  
+All well and good, but how do you handle text links that trigger a data modification? For instance, a page might have a list of items in a table, with "Edit - Delete" as associated actions. Edit is simple, it might go to edit?id=..., but Delete is more tricky. Assuming that no interstital "Are you sure" page is necessary, how can you trigger a POST from that Delete link?  
 My current way of tackling this is to include a form at the base of the page, and use some Javascript to submit that form. For instance
 
 ```
@@ -33,5 +33,5 @@ document.forms['jsPost'].submit();
 </script>
 ```
 
-This works fine and while the HTTP behaviour is roughly correct (okay, so in a perfect world I'd use the DELETE verb....) the code does not work for people not using Javascript.
+This works fine and while the HTTP behaviour is roughly correct (okay, so in a perfect world I'd use the DELETE verb....) the code does not work for people not using Javascript.  
 Any ideas for a better, but clean solution?

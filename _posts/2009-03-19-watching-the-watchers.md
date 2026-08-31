@@ -8,8 +8,8 @@ categories: ["Uncategorized"]
 tags: ["google", "streetview", "street", "red light"]
 ---
 
-Last night, Google released an update to its Street View system to include new locations across the UK, Netherlands and other European countries.
-My home city, Portsmouth, is not on there yet but Southampton is so, clicking through my old university stomping ground I came across this little treat:
+Last night, Google released an update to its Street View system to include new locations across the UK, Netherlands and other European countries.  
+My home city, Portsmouth, is not on there yet but Southampton is so, clicking through my old university stomping ground I came across this little treat:  
 ![shot1](https://www.yetanotherblog.com/wp-content/uploads/2009/03/shot1.png "shot1")
 
 First shot: The Google Car may or may not have gone through the first red lights. Who knows... the lights ahead are already on amber.

@@ -23,7 +23,9 @@ PRIORITY\_NO\_NAME (0.6 points) Message has priority setting, but no X-Mailer"
 ...and here's the email that triggered this....
 
 "This is an automated reply being sent by my spamkiller software.  
+
 ------------------------------------------------------------------  
+
 Hello, you recently sent a message to me at **[xxxxxx@yahoo.com](mailto:xxxxxx@yahoo.com)**.   
 My mailbox is protected from junk mail by ChoiceMail - a permission-based email system that requires senders to be granted permission to contact the recipient. It prevents any spam or email from unregistered senders from ever reaching my mailbox.  
 Please click on the link below to verify your identity.  

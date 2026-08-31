@@ -7,7 +7,7 @@ author: "sven"
 categories: ["Uncategorized"]
 ---
 
-My collection of notes around the Internet. I'm using a Model B with a Raspberry Pi camera and an up-to-date Raspbian.
+My collection of notes around the Internet. I'm using a Model B with a Raspberry Pi camera and an up-to-date Raspbian.  
 First, install motion:
 
 ```
@@ -32,10 +32,10 @@ event\_gap from 60 to 20 to reduce the amount of captures stored post-event
 
 threshold from 1500 to 2500 to reduce the sensitivity (number of changed pixels)
 
-Â minimum\_motion\_frames from 1 to 4 to reduce theÂ sensitivity (number of frames with motion detected)
+ minimum\_motion\_frames from 1 to 4 to reduce the sensitivity (number of frames with motion detected)
 
 ffmpeg\_output\_movies from on to off because I don't want movies
 
 target\_dir from /home/pi to /var/www/archive to suit my web installation
 
-picture\_filename from %v-%Y%m%d%H%M%S-%q toÂ %Y-%m/%Y-%m-%d/%v-%Y%m%d%H%M%S-%q to save putting too many images in a single folder.
+picture\_filename from %v-%Y%m%d%H%M%S-%q to %Y-%m/%Y-%m-%d/%v-%Y%m%d%H%M%S-%q to save putting too many images in a single folder.

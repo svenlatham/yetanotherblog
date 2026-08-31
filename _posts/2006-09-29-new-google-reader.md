@@ -11,7 +11,7 @@ After some adventures in desktop-reader-land I think I'm finally settling on [Go
 
 Today I woke up early to find that it has a new, more 'traditional' layout, with feeds on the left and content on the right.
 
-![The image â€œhttp://googlereader.blogspot.com/uploaded_images/screenshot2-704085.gifâ€ cannot be displayed, because it contains errors.](http://googlereader.blogspot.com/uploaded_images/screenshot2-704085.gif)  
+![The image “http://googlereader.blogspot.com/uploaded_images/screenshot2-704085.gif” cannot be displayed, because it contains errors.](http://googlereader.blogspot.com/uploaded_images/screenshot2-704085.gif)  
   
 
 I rather like it, although for some reason it was carrying some old posts from early September as unread. That was quickly fixed by clicking the Mark All as Read button.

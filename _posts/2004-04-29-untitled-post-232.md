@@ -11,8 +11,8 @@ categories: ["Uncategorized"]
   
 Robotic traffic cones swarm onto highways  
   
-"Herds of robotic traffic cones could soon be swarming onto a highway,
+"Herds of robotic traffic cones could soon be swarming onto a highway,  
 closing down lanes and slowing the traffic."  
   
-Genius! Somebody put their thinking cap on for this. Of course, they'll
+Genius! Somebody put their thinking cap on for this. Of course, they'll  
 all be pinched by drunken student who'll then go home and race them :)

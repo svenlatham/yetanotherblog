@@ -22,9 +22,9 @@ With that in mind, here are some things I want to write about, to describe my jo
 
 
 
-* Document my adventures, including new frameworks, practises, lessons learnt.
-* Convert this blog to some kind of static generated site.
-* Talk about what I'm learning with 3D printing.
+* Document my adventures, including new frameworks, practises, lessons learnt.  
+* Convert this blog to some kind of static generated site.  
+* Talk about what I'm learning with 3D printing.  
 * Record my travels.
 
 

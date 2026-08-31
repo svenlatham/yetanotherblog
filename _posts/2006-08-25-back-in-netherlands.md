@@ -13,7 +13,7 @@ Flying is definitely easier and less tiresome but slinging my camera into the ho
 
 Anyway, it gave me a chance to do what I enjoy most when coming to the continent - travelling by Eurostar business class.
 
-Normally I travel coach everywhere because, y'know, I'm not made of money, but for Â£50 extra (Â£210 instead of Â£160) you get quite a lot more.
+Normally I travel coach everywhere because, y'know, I'm not made of money, but for £50 extra (£210 instead of £160) you get quite a lot more.
 
 First of all there's the leg room - I have a tough time in standard class Eurostar. I'm on the tall side of the population and, like planes and buses, the train is a bit of a squeeze sometimes. It really does the knees no favours.
 

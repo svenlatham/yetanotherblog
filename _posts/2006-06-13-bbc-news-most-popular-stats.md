@@ -7,6 +7,6 @@ author: "sven"
 categories: ["On The Web", "bbc"]
 ---
 
-The BBC have added a 'Most popular' link to their news website, including live stats at the bottom of every article. The [full stats page](http://news.bbc.co.uk/1/shared/bsp/hi/live_stats/html/map.stm) includes a quite fascinating world map, showing readership from countries around the globe in real time.
-Well worth a look.
+The BBC have added a 'Most popular' link to their news website, including live stats at the bottom of every article. The [full stats page](http://news.bbc.co.uk/1/shared/bsp/hi/live_stats/html/map.stm) includes a quite fascinating world map, showing readership from countries around the globe in real time.  
+Well worth a look.  
 [![bbcstats.png](https://www.yetanotherblog.com/wp-content/uploads/2006/06/bbcstats.thumbnail.png)](http://news.bbc.co.uk/1/shared/bsp/hi/live_stats/html/map.stm)

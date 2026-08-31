@@ -7,6 +7,6 @@ author: "sven"
 categories: ["Uncategorized"]
 ---
 
-Seen at cafe recently:
-A 2 pound service charge will be added to bills over 20 pounds.
+Seen at cafe recently:  
+A 2 pound service charge will be added to bills over 20 pounds.  
 Is this really a sign of things to come?

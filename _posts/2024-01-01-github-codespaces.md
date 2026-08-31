@@ -34,7 +34,7 @@ A quick rattle through some other benefits:
 
 
 
-* Codespaces can be ephemeral, and I've specifically reduced their lifespan. This encourages regular commits, and thinking about clean deployments more routinely.
+* Codespaces can be ephemeral, and I've specifically reduced their lifespan. This encourages regular commits, and thinking about clean deployments more routinely.  
 * The entire dev environment is configured inside the repository in Github, so I know every contributor has a like-for-like place to work. That reduces errors.
 
 
