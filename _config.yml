@@ -1,0 +1,25 @@
+title: Yet Another Blog
+description: Notes from Sven Latham
+url: "https://www.yetanotherblog.com"
+baseurl: ""
+
+# Mirror the original WordPress permalink structure so old links don't 404
+permalink: /:year/:month/:day/:title/
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+include:
+  - _pages
+
+# Pull pages into the build
+defaults:
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: page

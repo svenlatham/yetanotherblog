@@ -1,0 +1,21 @@
+---
+layout: post
+title: "My Shoes Are Wet"
+date: 2008-05-21 07:39:10 +0000
+permalink: /2008/05/21/my-shoes-are-wet/
+author: "sven"
+categories: ["Uncategorized"]
+tags: ["london", "movie review", "movies", "review", "flood", "carlyle", "wick"]
+---
+
+**Warning:** This post contains spoilers and sarcastic undertones.
+Time for another infrequent and unreliable movie review. This time, it's the TV waterfest that is Flood, starring Robert Carlyle (*Full Monty, Transpotting*), David Suchet (*Poirot*) and Jessalyn Gilsig ([Claire's "mom"](http://heroeswiki.com/Meredith_Gordon) in *Heroes*).
+The movie often reaches out at factual events and incidents to back up its fictitous story of a hurricane trimming the Scottish coast before pulling back into London and flooding everything out. New Orleans is a regular reference, and I believe some of the images were from the Boscastle flood in 2004. The filmmakers are also at pains to point out that the Thames Barrier has been raised much more frequently in recent times compared to when it was first built, so they have evidence on their side. Wikipedia even chips in with [a description](http://en.wikipedia.org/wiki/Thames_Barrier#Previous_flooding) of how storm surges can be funnelled towards the Thames Estuary in certain circumstances.
+Still, what follows is a story of how woefully ill-prepared Londoners are to a wave of destruction. Cue watery effects, dramatic escapes from incoming surges and thinly veiled tension between former partners.
+What really makes this movie though is how laughably implausible certain parts of it are. As t'other half pointed out, in *Flood* and for that matter *The Day After Tomorrow* the characters, when faced with a rapidly approaching wall of water, turn and run. Can they outrun this mountainous surge of death, despite being injured and/or unfit? Of course they can.
+I always enjoy picking apart the technology scenes, of course, and *Flood* has a good few at the ready. Deputy Prime Minister, do you want to see live progress of the flood? Good news. Somebody had the foresight to create a pretty animation of the progressing surge in real time. Want to know if the professor succeeded in pulling that switch? How about a real-time on-screen rendering of that switch as it gets turned (So, they have the technical means to detect when a switch is flipped, but can't do it remotely....)
+Then there's the surge water itself. As the water rushes in you can clearly see on their amazing Flash-animated graphic that the water quickly passes through the eastern part of London. Canary Wharf, Woolwich and Greenwich are all wiped out in the advancing surge. Curiously though, it's six or more film hours before we next see that screen and it's only got to Fulham in West London, yet the speed of the surge hasn't particularly diminished.
+The movie also takes advantage of a few gratuitious coincidences. The Thames Barrier manual override can only be activated by going into a room which is prone to flooding. Once in there, for "security" reasons the room becomes locked and you can't escape, leading to certain death. All I can say is thank goodness the professor went. Any more of his melodramatic, miserable attitude and I'm sure somebody would've just pushed him into the water anyway.
+The characters aren't particularly engaging, except maybe the MET Office bloke who seemed to take an extraordinary amount of blame and got a beatdown from practically every other person there. No wonder he went for a long walk off a short rooftop, really. Robert Carlyle was *meh* and the professor, as previously stated, was the most depressing character I think I've ever witnessed.
+*Flood* was shown last week on ITV1. Somehow they managed to stretch a reasonable-length movie over two nights of (I think) two hours each. The real comedy came at the credits, where ITV clearly felt necessary to show the Environment Agency hotline and tell the viewer "If you have been affected by any of the events depicted in tonight's film please call....." Come to mention it, I'm not normally surrounded by several feet of floodwater. I'll just give them a ring.
+So, all in all, the movie was pretty pants - but there also lies its success. It's funny and takes itself far too seriously. I've seen the film for a few quid in the DVD bin at Tesco. If you want a laugh, I'd suggest picking it up.
